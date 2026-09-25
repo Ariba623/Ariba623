@@ -1,8 +1,8 @@
-Hi, I'm Areeba Noor!
+# Hi, I'm Areeba Noor!
 
 IT bachelor's student at Poliba
 
-A little more about me...
+## A little more about me...
 
 const Ari = {
 pronouns: "she" | "her",
@@ -12,4 +12,4 @@ interest: "exploring new technologies and developing software solutions and quic
 challenge: "I am doing the #100daysOfCode challenge focused on Laravel, React and TypeScript"
 }
 
-I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)
+## I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)
